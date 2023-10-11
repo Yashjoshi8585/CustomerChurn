@@ -1,2 +1,6 @@
 # CustomerChurn
 Analysis of "why customers are leaving the E-commerce plateform"
+
+Customer churn refers to the situation when customers decide to stop doing business with a company. This is a significant concern for businesses, as it hampers customer retention and overall success. In the fast-paced world of online retail, e-commerce companies face the challenge of retaining customers. To address this, identifying at-risk customers and implementing targeted retention strategies are crucial. This article presents a detailed analysis of a dataset from an online retail company, revealing valuable insights on customer churn. These insights offer essential guidance for decision-making, enabling proactive measures to reduce attrition and foster long-term loyalty. By understanding the factors driving churn, companies can mitigate attrition by providing appealing promotions and ensuring ongoing customer engagement.
+
+I got this dataset from Kaggle, and it contains information such as customers' personal details, satisfaction scores, preferred payment mode, days since the last order, and cashback amount. I cleaned and analyzed this dataset, and derived insights. This analysis is divided into several stages: data cleaning, data exploration, an insight section, and recommendations.
